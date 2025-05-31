@@ -10,7 +10,7 @@ This project demonstrates how to forecast Ethereum (ETH-USD) prices using the AR
 - ✅ Final Model: ARIMA(2,1,2)
 - 📈 30-Day Forecast with Confidence Intervals
 - 📊 Evaluation Metrics: RMSE, MAE, R² Score
-- 📹 Full video explanation available on [YouTube](#)
+- 📹 Full video explanation available on [[YouTube](https://www.youtube.com/@imransdatalab)](#)
 
 ## 📁 Files Included
 
